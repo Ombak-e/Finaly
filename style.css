@@ -116,6 +116,7 @@ nav ul li a.active {
     transform: translateY(25px);
     font-family: "Nunito", sans-serif;
     border-radius: 4px;
+    margin-bottom: 20px;
 }
 
 .bttn:hover {
